@@ -1,8 +1,8 @@
 # ECE-Projects
 Reports and brief description of the following Projects:
 
-1. PLL (will share on request)
-2. 2 Stage Opamp (will share on request)
+1. PLL 
+2. 2 Stage Opamp 
 3. CTLE
 4. 6 bit Wallace Tree Multiplier
 5. 3 dB Hybrid Coupler
