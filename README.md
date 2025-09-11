@@ -1,5 +1,5 @@
 # ECE-Projects
-Reports and brief description of the following Projects:
+Reports and brief description of the following Academic Projects:
 
 1. PLL 
 2. 2 Stage Opamp 
