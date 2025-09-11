@@ -7,5 +7,4 @@ Reports and brief description of the following Academic Projects:
 4. 6 bit Wallace Tree Multiplier
 5. 3 dB Hybrid Coupler
 6. BPSK Modulation and Demodulation
-7. RF Measurements.
 
