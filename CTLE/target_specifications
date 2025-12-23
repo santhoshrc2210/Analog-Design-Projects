@@ -1,4 +1,5 @@
-ACTIVE CTLE designed using gpdk90nm in virtuoso as part of training: 
+ACTIVE CTLE designed in virtuoso as part of training: 
+PDK: gpdk90nm
 VDD: 1.2 V
 Data Rate: 8 Gbps
 Peaking gain: 12 dB@4GHz
